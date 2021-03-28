@@ -11,6 +11,7 @@ namespace GithubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word Tadaaaa!!! dcm");
+            Console.WriteLine("Add");
         }
     }
 }
