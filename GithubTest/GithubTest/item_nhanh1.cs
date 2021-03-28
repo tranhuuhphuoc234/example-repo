@@ -8,5 +8,9 @@ namespace GithubTest
 {
     class item_nhanh1
     {
+        public item_nhanh1()
+        {
+            Console.WriteLine("hello con bo den");
+        }
     }
 }
