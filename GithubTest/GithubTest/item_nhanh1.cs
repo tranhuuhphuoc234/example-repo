@@ -11,6 +11,8 @@ namespace GithubTest
         public item_nhanh1()
         {
             Console.WriteLine("hello con bo den");
+            Console.WriteLine("cm1");
+            Console.WriteLine("cm2");
         }
     }
 }
