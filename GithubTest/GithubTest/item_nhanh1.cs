@@ -14,6 +14,7 @@ namespace GithubTest
             Console.WriteLine("cm1");
             Console.WriteLine("cm2");
             Console.WriteLine("cm3");
+            Console.WriteLine("cm4");
         }
     }
 }
