@@ -13,6 +13,7 @@ namespace GithubTest
             Console.WriteLine("hello con bo den");
             Console.WriteLine("cm1");
             Console.WriteLine("cm2");
+            Console.WriteLine("cm3");
         }
     }
 }
